@@ -8,8 +8,8 @@ El propósito de esta práctica es llevar a cabo un despliegue automatizado usan
 #### Campus Coatzacoalcos-Minatitlan
 [Facultad de Contaduria y Administración](https://www.uv.mx/coatza/admon)
 #### Actualizaciones
--Se cargaron los nuevos archivos Java y JUnit
--Se creo la rama Develop
+- Se cargaron los nuevos archivos Java y JUnit
+- Se creo la rama Develop
 
 
 ![Login](https://github.com/jvergara99/proyecto1/blob/main/Flor_con_uv_sin_fondo%20(1).png?raw=true)
